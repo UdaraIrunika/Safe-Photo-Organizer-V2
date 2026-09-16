@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Safe Photo Organizer
 
 Safe Photo Organizer is a local Windows web application for organizing image and video collections without modifying original source files.
@@ -193,3 +194,7 @@ photo-organizer/
 ## License and Data Handling
 
 This is a local project intended for personal photo organization. Media processing is performed on the local machine. No cloud upload is required by the application.
+=======
+# Safe-Photo-Organizer-V2
+Safe Photo Organizer V2
+>>>>>>> origin/main
