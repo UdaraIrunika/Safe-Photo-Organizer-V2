@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+safe_photo_organizer.db
+*.sqlite
+*.sqlite3
+.env
