@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Safe Photo Organizer
 
 Safe Photo Organizer is a local Windows web application for organizing image and video collections without modifying original source files.
@@ -8,6 +7,8 @@ The application scans a selected source folder recursively, detects media dates 
 ## Developer
 
 Udara Irunika
+
+  <img width="460" height="460" alt="119570415" src="https://github.com/user-attachments/assets/93c92a1a-82ae-4d59-9ed0-47653c8bcb11" />
 
 - Portfolio: https://udarairunika.com/
 - Company: https://uiddevelopers.com/
@@ -37,6 +38,14 @@ Udara Irunika
 - Pause, Resume, and Cancel controls for approved execution.
 - Responsive desktop, tablet, and mobile layout.
 - About popup with developer profile, company links, WhatsApp contact, UIDD information, and project image.
+
+## Video About this tool
+
+
+
+Uploading Safe Photo Organizer - Google Chrome 2026-09-17 00-29-06.mp4…
+
+
 
 ## Requirements
 
